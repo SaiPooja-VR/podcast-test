@@ -7,6 +7,5 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: SaiPooja-VR/podcast-generator@main          
+        uses: SaiPooja-VR/podcast-generator@main   
       
-    
